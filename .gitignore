@@ -1,0 +1,5 @@
+client/node_modules
+client/build
+server/static/css
+server/static/js
+.DS_STORE
