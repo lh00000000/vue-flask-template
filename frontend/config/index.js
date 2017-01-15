@@ -5,9 +5,9 @@ module.exports = {
   build: {
     env: require('./prod.env'),
     // index: path.resolve(__dirname, '../dist/index.html'),
-    index: path.resolve(__dirname, '../../server/templates/index.html'),
+    index: path.resolve(__dirname, '../../backend/templates/index.html'),
     // assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsRoot: path.resolve(__dirname, '../../server'),
+    assetsRoot: path.resolve(__dirname, '../../backend'),
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     productionSourceMap: true,

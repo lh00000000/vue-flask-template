@@ -1,5 +1,4 @@
-client/node_modules
-client/build
-server/static/css
-server/static/js
+frontend/node_modules
+backend/static/css
+backend/static/js
 .DS_STORE
